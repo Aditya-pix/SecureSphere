@@ -9,7 +9,6 @@ This document is IEEE-inspired: requirements are uniquely identified, testable w
 ## 2. Purpose
 
 The purpose of this SRS is to establish the baseline requirements for SecureSphere Version 1.0. It defines the system boundaries, supported users, capabilities, quality attributes, security controls, and constraints necessary to guide implementation and acceptance.
-
 ## 3. Scope
 
 SecureSphere will provide a secure, multi-tenant web platform for managing organizations, users, teams, access permissions, devices, active sessions, security assets, vulnerabilities, incidents, dashboards, audit records, notifications, and configurable security policies.
