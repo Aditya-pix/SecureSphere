@@ -1,0 +1,4 @@
+# SecureSphere Compose configuration is intentionally deferred until the
+# backend and frontend projects exist. Service definitions will be added
+# during the Infrastructure phase.
+services: {}
